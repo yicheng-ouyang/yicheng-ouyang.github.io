@@ -34,7 +34,6 @@ Mingyuan Wu, <ins>**Yicheng Ouyang**</ins>, Husheng Zhou, Lingming Zhang, Cong L
 ([ICSE 2020](https://conf.researchr.org/home/icse-2020))*, 2020. [[PDF](https://yicheng-ouyang.github.io/files/Simulee.pdf)]
 
 ## Internships
-
 ### Kuaishou Technology <img src="https://yicheng-ouyang.github.io/images/Kuaishou.png" alt="Kuaishou" style="height: 1.7em; float: right;"/>
 
 Kuaishou Headquarters, Haidian District, Beijing, China  <span style="float: right;">May 2021 - Aug 2021</span>
@@ -48,7 +47,6 @@ S Space, Pudong District, Shanghai, China  <span style="float: right;">Jun 2020 
 Suzhou Industrial Park, Jiangsu, China <span style="float: right;">Jun 2018 - Sep 2018</span>
 
 ## Teaching
-
 ### CS427: Software Engineering I
 
 Teaching Assistant at UIUC <span style="float: right;">Fall 2023</span>
@@ -58,7 +56,6 @@ Teaching Assistant at UIUC <span style="float: right;">Fall 2023</span>
 Teaching Assistant at SUSTech <span style="float: right;">Fall 2019</span>
 
 ## Talks
-
 ### MirrorTaint: Practical Non-intrusive Dynamic Taint Tracking for JVM-based Microservice Systems.
 
 ICSE 2023, Melbourne, Australia <span style="float: right;">May 2023</span>
