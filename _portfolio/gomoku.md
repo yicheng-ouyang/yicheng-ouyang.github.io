@@ -2,6 +2,7 @@
 title: "Gomoku AI <span style='float: right; vertical-align: top;'><img src='/images/portfolio/gomokuIcon.png' style='height: 4em;'></span>"
 excerpt: "A Gomoku AI developed in Python3."
 collection: portfolio
+order: 3
 ---
 
 <!-- # Gomoku AI -->

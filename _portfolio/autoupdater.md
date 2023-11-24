@@ -2,6 +2,7 @@
 title: "AutoUpdater<span style='float: right;'><img src='/images/portfolio/AutoUpdaterIcon.png' style='height: 4em;'></span>"
 excerpt: "A launcher/updater for Windows executable programs, utilizing an XML file to track version information and automatically download updates and execute the program based on this data."
 collection: portfolio
+order: 4
 ---
 
 It is a launcher/updater for any executable program in windows. It uses xml file to record the version information. First it downloads the newest xml file to check if the current version is newest, if no, it downloads the program from the link provided in the newest xml file and execute it.

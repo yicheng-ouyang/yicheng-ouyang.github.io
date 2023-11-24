@@ -3,6 +3,7 @@ title: "Sustech Monopoly<span style='float: right;'><img src='/images/portfolio/
 excerpt: "A 3D multiplayer Monopoly game themed around SUSTech campus life, achieving
 1000+ daily active users at peak and garnering coverage from multiple nationwide media outlets."
 collection: portfolio
+order: 1
 ---
 
 A multiplayer Monopoly game revolving around the campus life in SUSTech. The events were close to daily lives of the students and the 3D graphics was modelled after the real-life campus.
