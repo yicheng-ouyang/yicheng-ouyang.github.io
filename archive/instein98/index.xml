@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ouyang Yicheng</title>
+    <link>https://instein98.github.io/</link>
+    <description>Recent content on Ouyang Yicheng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 28 Dec 2019 11:56:08 +0800</lastBuildDate>
+    
+	<atom:link href="https://instein98.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Earthquakes Searching</title>
+      <link>https://instein98.github.io/projects/earthquake/earthquakes/</link>
+      <pubDate>Thu, 26 Sep 2019 13:19:22 +0800</pubDate>
+      
+      <guid>https://instein98.github.io/projects/earthquake/earthquakes/</guid>
+      <description>Earthquakes Searching (2017) This software can grab the earthquakes information happened in recent years.  Download and double click &#34;run.bat&#34; to launch. The Loading process can be very slow, you can just click &#34;OK&#34; to pass.
+ Made with HuangYuan in 2017.  Download: EarthquakesSearching.zip</description>
+    </item>
+    
+    <item>
+      <title>The Hook Man</title>
+      <link>https://instein98.github.io/projects/thehookman/</link>
+      <pubDate>Sat, 28 Dec 2019 11:56:08 +0800</pubDate>
+      
+      <guid>https://instein98.github.io/projects/thehookman/</guid>
+      <description>The Hook ManThe Hook Man (2018)It is a vertical-scroll game inspired by Doodle Jump. In this game you can control a ninja to climb higher and higher by using a Grappling Hook! Try not to fall, or your ninja may die!
+Smartphone：Use the virtual joystick to control the direction, use the buttons to accelerate horizontally and launch the grappling hook.
+PC：A/D key to accelerate horizontally, space to launch the grappling hook.</description>
+    </item>
+    
+    <item>
+      <title>Gomoku AI</title>
+      <link>https://instein98.github.io/projects/gobang/gobang/</link>
+      <pubDate>Thu, 26 Sep 2019 21:52:41 +0800</pubDate>
+      
+      <guid>https://instein98.github.io/projects/gobang/gobang/</guid>
+      <description>Gomoku AI (2018) Project of Artificial Intelligence course. The AI is slow, and powerful. Ranked me among the Top 10 in the round robin Gomoku AI battle across the entire grade. Download: GobangAI.exe</description>
+    </item>
+    
+    <item>
+      <title>Sustech Monopoly</title>
+      <link>https://instein98.github.io/projects/monopoly/monopoly/</link>
+      <pubDate>Thu, 26 Sep 2019 23:11:36 +0800</pubDate>
+      
+      <guid>https://instein98.github.io/projects/monopoly/monopoly/</guid>
+      <description>Sustech Monopoly (2018) A multiplayer Monopoly game revolving around the campus life in SUSTech. The events were close to daily lives of the students and the 3D graphics was modelled after the real-life campus.
+After entering your name, you can get to the lobby which shows the list of rooms available. When 3 people are in the same room, the game will start. In the game you can work, study, buy item card, take bus.</description>
+    </item>
+    
+    <item>
+      <title>CTF Deathmatch</title>
+      <link>https://instein98.github.io/projects/ctf/ctf/</link>
+      <pubDate>Thu, 26 Sep 2019 23:22:03 +0800</pubDate>
+      
+      <guid>https://instein98.github.io/projects/ctf/ctf/</guid>
+      <description>CTF Deathmatch (2019) A Local network CTF car game. The target of this game is to capture the flag and bring it to your home. both players can utilize two skills to attack or escape. Try to get more points than your rivals! Github: CTF_DEATHMATCH
+Download: CTF_DEATHMATCH.zip</description>
+    </item>
+    
+    <item>
+      <title>AutoUpdater</title>
+      <link>https://instein98.github.io/projects/autoupdater/autoupdater/</link>
+      <pubDate>Thu, 26 Sep 2019 13:19:22 +0800</pubDate>
+      
+      <guid>https://instein98.github.io/projects/autoupdater/autoupdater/</guid>
+      <description>AutoUpdater (2019) Introduction It is a launcher/updater for any executable program in windows. It uses xml file to record the version information. First it downloads the newest xml file to check if the current version is newest, if no, it downloads the program from the link provided in the newest xml file and execute it.  Usage 1. You need to specify the xml link in the header file *worker.</description>
+    </item>
+    
+    <item>
+      <title>Blog opened!</title>
+      <link>https://instein98.github.io/blog/20190925/</link>
+      <pubDate>Wed, 25 Sep 2019 11:56:08 +0800</pubDate>
+      
+      <guid>https://instein98.github.io/blog/20190925/</guid>
+      <description>Today I build the blog on my github page.
+Hope it is a nice day.
+今天我在 github.io 上建了这个博客。
+希望今天是个好日子。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://instein98.github.io/thehookman-mobile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://instein98.github.io/thehookman-mobile/</guid>
+      <description>Cocos Creator | TheHookMan------</description>
+    </item>
+    
+  </channel>
+</rss>
