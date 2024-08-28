@@ -13,6 +13,12 @@ I am a third-year Computer Science PhD student at [University of Illinois Urbana
 Before coming to UIUC, I completed my undergrad at the Southern University of Science and Technology where I was fortunate to work with Professor [Yuqun Zhang](https://zhangyuqun.github.io/).
 
 ## Publications
+
+<ins>**Benchmarking Automated Program Repair: An Extensive Study on Both Real-World and Artificial Bugs.**</ins>  
+<ins>**Yicheng Ouyang**</ins>, Jun Yang, Lingming Zhang.  
+*In Proceedings of the 33rd ACM International Symposium on Software Testing and Analysis  
+([ISSTA 2024](https://conf.researchr.org/home/issta-2024))*, 2024. [[PDF](https://yicheng-ouyang.github.io/files/BenchmarkAPR.pdf)]
+
 <ins>**MirrorTaint: Practical Non-intrusive Dynamic Taint Tracking for JVM-based Microservice Systems.**</ins>  
 <ins>**Yicheng Ouyang**</ins>, Kailai Shao, Kunqiu Chen, Ruobing Shen, Chao Chen, Mingze Xu, Yuqun Zhang, Lingming Zhang.  
 *In Proceedings of the 45th IEEE/ACM International Conference on Software Engineering  
