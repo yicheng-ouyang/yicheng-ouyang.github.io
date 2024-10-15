@@ -40,6 +40,10 @@ Mingyuan Wu, <ins>**Yicheng Ouyang**</ins>, Husheng Zhou, Lingming Zhang, Cong L
 ([ICSE 2020](https://conf.researchr.org/home/icse-2020))*, 2020. [[PDF](https://yicheng-ouyang.github.io/files/Simulee.pdf)]
 
 ## Internships
+### Google LLC <img src="https://yicheng-ouyang.github.io/images/Google.png" alt="Google" style="height: 1.7em; float: right;"/>
+
+Sunnyvale, California, United States  <span style="float: right;">May 2024 - Aug 2024</span>
+
 ### Kuaishou Technology <img src="https://yicheng-ouyang.github.io/images/Kuaishou.png" alt="Kuaishou" style="height: 1.7em; float: right;"/>
 
 Kuaishou Headquarters, Haidian District, Beijing, China  <span style="float: right;">May 2021 - Aug 2021</span>
@@ -55,7 +59,7 @@ Suzhou Industrial Park, Jiangsu, China <span style="float: right;">Jun 2018 - Se
 ## Teaching
 ### CS427: Software Engineering I
 
-Teaching Assistant at UIUC <span style="float: right;">Fall 2023</span>
+Teaching Assistant at UIUC <span style="float: right;">Fall 2023 & Fall 2024</span>
 
 ### CS309: Object-oriented Analysis and Design
 
